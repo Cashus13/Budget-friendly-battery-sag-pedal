@@ -6,4 +6,5 @@ To make the pedal
 Step 1 start by pressing the 4 heat inserts into the 4 corners 
 Step 2 start placing the components into the shell to cut your wire to length
 Step 3 start soldering according to the diagram
-Step 4 screw in the back and your done, you should now have a working battery sag pedal if you did everything correctly
+Step 4 screw in the back and your done, you should now have a working battery sag pedal if you did everything correctly!
+![bottom](image-4.png) ![side 1](image-5.png) ![side 2](image-6.png) ![top veiw render](<battery_sag_pedal_V1(render 1).png>)
